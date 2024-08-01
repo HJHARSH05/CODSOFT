@@ -1,4 +1,4 @@
-import random
+import random 
 options = ("rock", "paper", "scissors")
 running = True
 while running:
@@ -25,4 +25,4 @@ while running:
     if not input("Play again? (y/n): ").lower() == "y":
         running = False
 
-print("Thanks for playing!")
+print("Thanks for playing Have a nice day !")
